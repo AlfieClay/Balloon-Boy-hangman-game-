@@ -4,7 +4,7 @@
 >>The only non-default package the game requires is pillow.
 >how to run
 >copy the master directory into a local directory.
->Navigate to this directory in command line/terminal.
+>Navigate to this directory in command line/terminal and open the master.
 >run the command ‘[your version of python]python3 balloon_boy.py’.
 >modification ideas
 >>The ‘dictionary.csv’ file can be modified/added to to change the words that will appear.
